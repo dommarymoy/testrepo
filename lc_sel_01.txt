@@ -1,0 +1,29 @@
+0ID_CANCEL --- Anulado
+0CALQUARTER --- Año nat./Trimestre
+0CALYEAR --- Año natural
+0CALWEEK --- Año natural/Semana
+0CALMONTH --- Año/Mes natural
+0SOLD_TO__0DISTR_CHAN --- Canal Dist. Actual[S
+0DOC_TYPE --- Clase doc.ventas
+0SHIP_TO --- Destinatario mcía.
+0CALDAY --- Día natural
+0SOLD_TO__0CUST_GROUP --- Grupo Clients Actual
+0MATERIAL__ZC_GRPRD1 --- Grupo Productos[Mate
+0MATERIAL__ZC_GRPRD2 --- Grupo Productos[Mate
+0SALES_GRP --- Grupo de vendedores
+0REQUID --- ID petición
+0REQUID (SID) --- ID petición
+0SOLD_TO__0CUST_HIE01 --- Jerq Cliente Niv Act
+0MATERIAL__ZC_MARCA --- Marca[Material]
+0MATERIAL --- Material
+0MATERIAL__0MATL_GRP_2 --- Material Group 2[Mat
+0SALES_OFF --- Oficina de ventas
+0SALESORG --- Organización de vent
+0SOLD_TO__0SALESEMPLY --- Rep. Vtas. Actual[So
+0SALESEMPLY --- Representante ventas
+0DIVISION --- Sector
+0SOLD_TO --- Solicitante
+0DOC_CATEG --- Tipo doc.comercial
+0ITEM_CATEG --- Tipo posición
+0SALES_DIST --- Zona de ventas
+0NT_WT_KG --- Peso neto en Kg.
